@@ -25,3 +25,8 @@ in:
 ```
 $ rake
 ```
+
+## Note
+
+This code based on 
+[sample_apache_gen.rb](https://github.com/treasure-data/td/blob/master/data/sample_apache_gen.rb) at treasure-data.
